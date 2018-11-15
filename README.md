@@ -15,8 +15,8 @@ Dependencies :
 
 Python based modules selenium,pandas,openpyxl,beautifulsoup etc can be easily installed on both systems using python package manager "pip2"/"pip3".
 
-1_dentist_site.zip : Extracting contact information from Swiss dentist website in Excel spreadseets
-2_nse_site.zip : NSE Stocks tables and information in Excel spreadseets
+1_dentist_site.zip : Extracting contact information from Swiss dentist website in Excel spreadseets <br>
+2_nse_site.zip : NSE Stocks tables and information in Excel spreadseets <br>
 3_Linkedn_stat.zip : LinkedIn profile statistics in sjon file
 4_Education_site.zip : Eductaion website information web tables in Excel spreadseets
 5_Linkedin_prof_search.zip : Google LinkedIn profile search in Excel spreadseets
