@@ -22,4 +22,4 @@ Python based modules selenium,pandas,openpyxl,beautifulsoup etc can be easily in
 5_Linkedin_prof_search.zip : Google LinkedIn profile search in Excel spreadhseets <br>
 6_IMdb.zip : Data-table information in Excel spreadhseets and images from IMDB site <br>
 7_Exhibition.zip: Exibition Articles from French site in excel spreadhseets <br>
-8_YahooFinance.zip: Yaoon stocks in csv spreadhseets <br>
+8_YahooFinance.zip: Yahoo stocks in csv spreadhseets <br>
