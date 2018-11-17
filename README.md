@@ -23,3 +23,4 @@ Python based modules selenium,pandas,openpyxl,beautifulsoup etc can be easily in
 6_IMdb.zip : Data-table information in Excel spreadhseets and images from IMDB site <br>
 7_Exhibition.zip: Exibition Articles from French site in excel spreadhseets <br>
 8_YahooFinance.zip: Yahoo stocks in csv spreadhseets <br>
+9_cvparser.zip: CV/Resume parser to extarct basic information <br>
