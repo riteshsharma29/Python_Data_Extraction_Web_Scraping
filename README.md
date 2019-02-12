@@ -24,3 +24,4 @@ Python based modules selenium,pandas,openpyxl,beautifulsoup etc can be easily in
 7_Exhibition.zip: Exibition Articles from French site in excel spreadhseets <br>
 8_YahooFinance.zip: Yahoo stocks in csv spreadhseets <br>
 9_cvparser.zip: CV/Resume parser to extarct basic information <br>
+10_Philips_data_extraction.zip: This example is combination of :Selenium + pyautogui + pandas + *args to download Philips web tables based on certain conditions.
