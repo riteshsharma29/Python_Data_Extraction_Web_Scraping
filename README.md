@@ -26,3 +26,4 @@ Python based modules selenium,pandas,openpyxl,beautifulsoup etc can be easily in
 9_cvparser.zip: CV/Resume parser to extarct basic information <br>
 10_Philips_data_extraction.zip: This example is combination of :Selenium + pyautogui + pandas + *args to download Philips web tables based on certain conditions.<br>
 11 google_search_html_table.zip - Python based windows Google search and extract html tables in excel workbook script.
+12.product_info_scrapping_using_selenium_bs4.zip : Scrapping product info from website using selenium & bs4. Combination of selenium,bs4 and file finding feature.
